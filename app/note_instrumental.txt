@@ -1,0 +1,36 @@
+
+Instrumental Testing
+
+1. Memastikan data Movie dan Tv Show di RecyclerView
+     -Memastikan rvMovie dan rvTvShow Bekerja sesuai keinginan
+    -Menjalankan rvMovie dan rvTvShow digulir ke data terakhir
+    -menjalankan aksi klik pada data di rvMovie dan rvTvShow
+
+ 2. Menampilkan data Dari Movie dan TvShow
+    -Memastikan Poster dari data Movie dan TvShow tampil sesuai keinginan
+    -Memastikan TextView dari title dan date bekerja sesuai keinginan
+
+  3 Memastikan data dan menampilkan detail dari Movie dan TvShow
+    -Memastikan Poster image dari Movie dan TvShow tampil sesuai keinginan
+    -Memastikan TextView dari title tampil sesuai keinginan
+    -Memastikan TextView dari date tampil sesuai keinginan
+    -Memastikan TextView dari category tampil sesuai keinginan
+    -Memastikan TextView dari title description tampil sesuai keinginan
+    -Memastikan TextView dari description tampil sesuai keinginan
+
+  4 Memastikan menu Setting
+    -Memastikan menu setting menampilkan icon sesuai keinginan
+    -Menjalankan aksi klik pada menu setting
+
+
+   5 Menampilkan Menu Setting Mode
+      -Memastikan TextView dari Setting Theme sesuai keinginan
+      -Menjalankan aksi klik pada button setMode dan bekerja sesuai keinginan
+
+   6 . Memastikan menu favorite
+    -memastikan menu favorite menampilkan icon sesuai keinginan
+    -menjalankan aksi klik pada menu favorite
+
+    7. memastikan Movie Favorite dan TvShow favorite
+       -Memastikan rvMovieFavorite dan rvTvShowFavorite Bekerja sesuai keinginan
+
